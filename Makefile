@@ -1,7 +1,3 @@
-# Add the names of your .c files from your assignment here. Use a space to
-# separate them. So something like:
-#   SRCS = main.c potato.c
-# Do not include .h files here
 SRCS = src/main.c src/utils.c
 
 # This line is the name of the program you are building
