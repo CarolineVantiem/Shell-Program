@@ -1,0 +1,47 @@
+CMSC 421 Project 1 Grade
+Total Possible Points: 100
+
+Student email: cvantie1@umbc.edu
+GitHub Username: CarolineVantiem 
+
+---------------------------------------------------------------------
+Includes working Makefile (5 points)                            : 5
+Code compiles without errors (with -Werror) (10 points)         : 10
+---------------------------------------------------------------------
+Parsing input from user
+    - Can handle arbitrary length (5 points)                    : 5
+---------------------------------------------------------------------
+Part 1
+    - Can execute any installed program (10 points)             : 10
+    - Quoted and escaped strings parse correctly (10 points)    : 10
+    - 'exit' implemented correctly (5 points)                   : 5
+---------------------------------------------------------------------
+Part 2
+    - Determines correct file and opens properly (5 points)     : 5
+    - Displays information from files correctly (2 points each)
+        - /proc/cpuinfo                                         : 2
+        - /proc/loadavg                                         : 2
+        - /proc/pid/status                                      : 2
+        - /proc/pid/environ                                     : 2
+        - /proc/pid/sched                                       : 2
+---------------------------------------------------------------------
+fork()
+    - Forks properly (5 points)                                 : 5
+    - Handles errors when forking (5 points)                    : 5
+---------------------------------------------------------------------
+execvp()/execve()
+    - Calls appropriate execv[pe]() correctly (5 points)        : 5
+    - Handles exec errors (5 points)                            : 5
+---------------------------------------------------------------------
+Memory Management
+    - Frees parent process memory correctly (10 points)         : 10
+    - Frees child process memory correctly (10 points)          : 10
+---------------------------------------------------------------------
+Penalties:
+ -10 incremental development requirements not followed          :  
+ -10 one day late                                               :    
+---------------------------------------------------------------------
+Final Project 1 Grade                                           : 100
+
+Comments from the TA: 
+---------------------
