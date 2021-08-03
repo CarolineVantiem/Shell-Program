@@ -8,6 +8,8 @@
     Author Name: Caroline Vantiem
     Author email: cvantie1@umbc.edu
     Description: a simple linux shell designed to perform basic linux commands
+    
+    PROPERTY OF CAROLINE VANTIEM. NO COPYING WITHOUT GIVING CREDIT.
 */
 
 #include <stdio.h>
