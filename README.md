@@ -1,4 +1,4 @@
-# Project 1 for CMSC421 Operating Systems
+# CMSC421 Operating Systems Project
 ### Grade 100/100
 
 A C program that works as a simple *nix shell. 
