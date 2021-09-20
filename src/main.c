@@ -1,9 +1,6 @@
 /*
     UMBC CMSC 421
     Spring 2021
-    Project 1
-
-    Due Date: 2/28/21 11:59:00 pm
 
     Author Name: Caroline Vantiem
     Author email: cvantie1@umbc.edu
